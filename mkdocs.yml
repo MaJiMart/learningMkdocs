@@ -1,5 +1,6 @@
 site_name: Linux
 site_author: "M. Jimena Martínez"
+site_url: https://majimart.github.io/learningMkdocs/
 docs_dir: 'md'
 site_dir: 'docs'
 extra_css:
