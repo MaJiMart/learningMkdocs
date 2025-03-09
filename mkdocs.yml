@@ -1,0 +1,15 @@
+site_name: Linux
+site_author: "M. Jimena Martínez"
+site_url:
+extra_css:
+  - css/styles.css
+nav:
+  - Inicio: index.md
+  - Conceptos básicos:
+    - Introducción: conceptos_basicos.md
+    - Scripts: scripts.md
+    - Sintaxis: sintaxis.md
+    - Comodines: comodines.md
+theme: readthedocs
+markdown_extensions:
+  - admonition
