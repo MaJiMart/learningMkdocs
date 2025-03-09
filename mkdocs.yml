@@ -1,6 +1,7 @@
 site_name: Linux
 site_author: "M. Jimena Martínez"
-site_url:
+docs_dir: 'md'
+site_dir: 'docs'
 extra_css:
   - css/styles.css
 nav:
